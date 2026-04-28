@@ -11,3 +11,5 @@ Pengguna mengisi identitas $\rightarrow$ memilih kategori & menu $\rightarrow$ k
 Proyek UTS.java ini adalah aplikasi GUI (Graphical User Interface) berbasis Java Swing yang berfungsi sebagai sistem input pemesanan makanan.
 Secara teknis, proyek ini mengintegrasikan komponen input data (teks dan pilihan) dengan logika tombol aksi (Tambah, Hapus, Pesan) untuk mengelola data pesanan pelanggan. Fokus utamanya adalah mempermudah interaksi pengguna dalam mendata nomor meja, nama, dan menu yang dipilih secara terorganisir.
 
+HASIL
+<img width="424" height="399" alt="Screenshot 2026-04-28 184354" src="https://github.com/user-attachments/assets/91c146a1-a9ff-40b1-959b-9d4309217710" />
